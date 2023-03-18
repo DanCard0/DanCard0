@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanCard0
-- 👀 I’m interested in Web technologies
+- 👀 I’m interested in Web technologies. I have experience working with JS (MERN Stack principally).
 - 🌱 I’m currently learning AWS and DevOps essentials
 - 📫 You can reach me through my Linkedin profile https://www.linkedin.com/in/dan-c/
 
